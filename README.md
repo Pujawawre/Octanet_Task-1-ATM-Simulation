@@ -2,10 +2,12 @@ Octanet Python Internship🔖
 
 🖇️ATM Simulation Project
 
-🖇️Overview
+🖇️Overview:
+
 The ATM Simulation Project is a Python-based application designed to replicate the fundamental functions of an Automated Teller Machine (ATM). This project showcases essential programming concepts and provides an intuitive interface for managing ATM transactions.
 
-🖇️Features
+🖇️Features:
+
 The ATM simulation encompasses the following core functionalities:
 
 1) Account Balance Inquiry: Enables users to verify their current account balance.
@@ -14,7 +16,8 @@ The ATM simulation encompasses the following core functionalities:
 4) PIN Change: Provides functionality for users to modify their PIN.
 5) Transaction History: Displays a record of transactions performed by the user.
 
-🖇️Installation
+🖇️Installation:
+
 To set up the ATM simulation project on your local machine, follow these steps:
 
 1) Clone the Repository: bash
@@ -29,7 +32,8 @@ To set up the ATM simulation project on your local machine, follow these steps:
 
    python atm_simulation.py
 
-🖇️Usage
+🖇️Usage:
+
 Upon executing the application, users will be prompted to enter their PIN. After successful authentication, users can select from available options to perform various transactions. The main menu will guide users through the following actions:
 
 1) Check Balance
@@ -38,5 +42,6 @@ Upon executing the application, users will be prompted to enter their PIN. After
 4) Change PIN
 5) View Transaction History
 
-🖇️Code Structure
+🖇️Code Structure:
+
 ATM.py: Contains the entire ATM simulation logic, including account management, transaction handling, and user interface.
